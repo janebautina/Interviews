@@ -1,5 +1,5 @@
 /*
-DP Solution for Fibonecci Numbers
+DP Solution for Fibonacci Numbers
 Time Complexity: O(n)
 Space: O(1)
 */
