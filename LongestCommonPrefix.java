@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/longest-common-prefix
 class LongestCommonPrefix {
 
     public String longestCommonPrefix(String[] strs) {
@@ -11,7 +12,7 @@ class LongestCommonPrefix {
                 minLength = strs[i].length();
             }
         }
-        
+
         System.out.println("Min length:" + minLength );
         StringBuilder sb = new StringBuilder();
 
